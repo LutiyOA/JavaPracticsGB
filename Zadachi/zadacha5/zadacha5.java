@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class zadacha5 {
     static char[] textGlobal;
-    static char[] textGlobalReal;
+    // static char[] textGlobalReal;
     static ArrayList<Integer> signIndexes = new ArrayList<>();
     static int count=0;
 
