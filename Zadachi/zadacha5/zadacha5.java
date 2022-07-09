@@ -7,7 +7,6 @@
 
 package Zadachi.zadacha5;
 
-import java.util.Arrays;
 import java.util.ArrayList;
 
 public class zadacha5 {
